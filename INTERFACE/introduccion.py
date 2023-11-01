@@ -1,1 +1,11 @@
-print("HOLA MUNDO XD")
+print("HOLA MUNDO XD, SOY EL ROY")
+
+
+a=1
+b=2
+c=3
+
+def suma():
+    print(a+b+c)
+
+suma()
