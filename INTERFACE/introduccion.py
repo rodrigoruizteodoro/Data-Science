@@ -1,4 +1,6 @@
-print("HOLA MUNDO XD, SOY EL ROY, bienvenido xd")
+
+print("HOLA MUNDO XD, SOY EL ROY, HOLIIII!!")
+
 
 
 a=1
@@ -9,7 +11,15 @@ def suma():
     print(a+b+c)
 
 suma()
+
+
+def imprime():
+    print("ESTA ES LA RAMA PARA DESARROLLAR EL BACK-END")
+
+imprime()
+
 def funcion():
     print("Esta rama esta destinada para los cambios necesarios en el front end")
     
 funcion()
+
